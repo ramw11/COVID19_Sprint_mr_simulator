@@ -1,0 +1,31 @@
+{
+	"unitId" : "S1",
+	"patientId" : "GUID",
+	"Age" : 65,
+	"Weight" : 70,
+	"Gender" : "male",
+	"TimeTag" : "24-03-2020 19:20:30",
+	"SensorPos" : "Chest",
+	"Vendor" : "Vendor1",
+	"AudioPath" : "URL",
+	"FirstPriority" : {
+		"Pulse" : 0,
+		"FEV1" : 0,
+		"FVC" : 0,
+		"TLC" : 0,
+		"RV" : 0,
+		"ERV" : 0,
+		"FRC" : 0,
+		"BreathRate" : 0,
+		"Wheezing" : "Yes",
+		"CoughPresenceRate" : 4
+	},
+	"SeconderyPriority" : {
+		"Fever" : 37.1,
+		"BPM" : 0,
+		"RPMF" : 0,
+		"Saturation" : 0,
+		"BloodPressureHigh" : 0,
+		"BloodPressureLow" : 0
+	}
+}
